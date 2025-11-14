@@ -1,5 +1,5 @@
 # StudyStreak-OOPs
-StudyStreak is minor project of OOPs Semester 3 of NIT Patna
+StudyStreak is minor project of OOPs Semester 3 of NIT Patna students
 
 # Professor: 
 This Minor Project is done under the guidance of Dr. Krishan Kumar Sethi (National Institute of Technology Patna)
